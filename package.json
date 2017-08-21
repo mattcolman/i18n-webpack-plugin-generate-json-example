@@ -6,13 +6,13 @@
   "main": "index.js",
   "scripts": {
     "start": "node devServer.js",
-    "i18n-generate": "i18n-generate -d src -l de"
+    "i18n-generate": "i18n-generate -d src -l 'de cn fr'"
   },
   "license": "ISC",
   "dependencies": {
+    "i18n-webpack-plugin-generate-json": "file:../i18n-webpack-plugin-generate-json",
     "react": "^15.6.1",
-    "react-dom": "^15.6.1",
-    "i18n-webpack-plugin-generate-json": "file:../i18n-webpack-plugin-generate-json"
+    "react-dom": "^15.6.1"
   },
   "devDependencies": {
     "babel-cli": "^6.24.1",

@@ -10,7 +10,6 @@
   },
   "license": "ISC",
   "dependencies": {
-    "i18n-webpack-plugin-generate-json": "file:../i18n-webpack-plugin-generate-json",
     "react": "^15.6.1",
     "react-dom": "^15.6.1"
   },
@@ -25,6 +24,7 @@
     "babel-preset-react": "^6.24.1",
     "html-webpack-plugin": "^2.24.1",
     "i18n-webpack-plugin": "^1.0.0",
+    "i18n-webpack-plugin-generate-json": "^1.0.0",
     "webpack": "^2.6.1",
     "webpack-dev-server": "^2.4.5"
   }

@@ -1773,8 +1773,9 @@ https-browserify@0.0.1:
   version "0.0.1"
   resolved "https://registry.yarnpkg.com/https-browserify/-/https-browserify-0.0.1.tgz#3f91365cabe60b77ed0ebba24b454e3e09d95a82"
 
-"i18n-webpack-plugin-generate-json@file:../i18n-webpack-plugin-generate-json":
+i18n-webpack-plugin-generate-json@^1.0.0:
   version "1.0.0"
+  resolved "https://registry.yarnpkg.com/i18n-webpack-plugin-generate-json/-/i18n-webpack-plugin-generate-json-1.0.0.tgz#33736e31f2be7d2e8d5f87329647908a68a619a0"
 
 i18n-webpack-plugin@^1.0.0:
   version "1.0.0"
